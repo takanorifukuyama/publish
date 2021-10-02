@@ -7,5 +7,9 @@
   "license": "MIT",
   "dependencies": {
     "zenn-cli": "^0.1.96"
+  },
+  "scripts": {
+    "new": "npx zenn new:article",
+    "preview": "npx zenn preview"
   }
 }
